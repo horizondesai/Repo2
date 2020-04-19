@@ -3,5 +3,3 @@ Created my trial file
 `hello world`
 * one
 * two
- *two
- *two
